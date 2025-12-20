@@ -18,35 +18,33 @@ To ensure consistency in process conditions, each sub-dataset is collected from 
 This dataset is intended for research on anomaly detection, weakly supervised learning, and industrial time-series analysis, and can be used for both academic research and engineering-oriented method evaluation.
 
 | Dataset | Total | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 | A9 |
-|:-------:|-------:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| D1 | 178 | 16 | / | / | 21 | / | / | / | / | / |
-| D2 | 10000 | 11 | / | / | / | / | 13 | 7 | / | / |
-| D3 | 4996 | / | 11 | 6 | / | 47 | 2 | 8 | 1 | / |
-| D4 | 10000 | 15 | / | 19 | 9 | / | / | / | 11 | / |
-| D5 | 4933 | / | 9 | / | / | / | / | / | / | / |
-| D6 | 10000 | 11 | 3 | 11 | 6 | / | 13 | / | / | / |
+|:-------:|------:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| D0 | 22773 | 1 | / | 29 | / | 6 | 2 | / | / | / |
+| D1 | 178 | 16 | / | 21 | / | / | / | / | / | / |
+| D2 | 10000 | 11 | / | / | / | 13 | 7 | / | / | / |
+| D3 | 4996 | / | 11 | 5 | 47 | 2 | 8 | / | / | / |
+| D4 | 10000 | 15 | / | 39 | / | / | / | / | / | / |
+| D5 | 51 | / | / | / | / | / | / | 1 | / | / |
+| D6 | 4933 | / | 9 | / | / | / | / | / | / | / |
+| D7 | 10000 | 11 | 3 | 17 | / | 13 | / | / | / | / |
 
 **Note:**  
-Dataset **D5** corresponds to yield tightening. Therefore, part of the necking-related samples are labeled as **A2**.
+Dataset **D6** corresponds to yield tightening. Therefore, part of the necking-related samples are labeled as **A2**.
 
 ---
 ### A1: Engagement or Slip-off
 ---
 ### A2: Yield or Crashing or Necking
 ---
-### A3: Co-rotation
+### A3: Interfacial Instability
 ---
-### A4: Stripping or Rounding
+### A4: Stick–Slip
 ---
-### A5: Thread crossing / Jamming / Floating / Seizing /（Abnoraml Prevailing Torque）
+### A5: Thread crossing / Jamming / Floating / Seizing / Gap Closure / Stiffness Variation（Abnoraml Prevailing Torque）
 ---
-### A6: Stick–Slip
+### A6: Re-tightening (Rehit)
 ---
-### A7: Re-tightening (Rehit)
----
-### A8: Gap Closure or Stiffness Variation
----
-### A9: Tool or Equipment Worn
+### A7: Tool or Equipment Worn
 ---
 
 ## License
