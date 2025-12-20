@@ -16,7 +16,7 @@ To ensure consistency in process conditions, each sub-dataset is collected from 
 This dataset is intended for research on anomaly detection, weakly supervised learning, and industrial time-series analysis, and can be used for both academic research and engineering-oriented method evaluation.
 
 | Dataset | Total | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 | A9 |
-|-------|-------:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|:-------:|-------:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | D1 | 178 | 16 | / | / | 21 | / | / | / | / | / |
 | D2 | 10000 | 11 | / | / | / | / | 13 | 7 | / | / |
 | D3 | 4996 | / | 11 | 6 | / | 47 | 2 | 8 | 1 | / |
