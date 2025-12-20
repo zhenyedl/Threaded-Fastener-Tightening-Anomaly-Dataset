@@ -47,6 +47,16 @@ Dataset **D5** corresponds to yield tightening. Therefore, part of the necking-r
 ### A9: Tool or Equipment Worn
 ---
 
+## License
+
+This dataset is licensed under the  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to use, share, and adapt the data for non-commercial purposes,
+provided that appropriate credit is given.
+
+For commercial use, please contact the author.
+
 ### 中文简介
 
 这是一个面向工业场景的真实螺纹拧紧过程异常分析数据集。该数据集基于实际工业生产现场中不同螺纹连接点位的拧紧过程数据构建，核心数据形式为拧紧过程中同步采集的扭矩–角度时间序列。数据集旨在为工业拧紧过程中的异常检测、质量评估及时序建模等研究任务提供可靠的数据支撑。
