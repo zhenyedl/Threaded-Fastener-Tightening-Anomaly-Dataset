@@ -4,11 +4,9 @@
 
 The dataset is released as part of the academic research conducted for the master’s thesis entitled: **Tightening Analysis System for Threaded Fasteners in Intelligent Manufacturing**.
 
-This thesis was submitted to the **University of Chinese Academy of Sciences(UCAS)**.
-
 **Author:** YANG Zhenye  
 **Supervisor:** TIAN Yingjie  
-**Institution:** University of Chinese Academy of Sciences  
+**Institution:** University of Chinese Academy of Sciences(UCAS)  
 **Date:** June 2026
 
 This is a real-world industrial dataset designed for anomaly analysis in threaded fastener tightening processes. The dataset is constructed from actual tightening operation data collected at industrial production sites, where synchronized torque–angle time-series signals are recorded during each tightening process. It aims to support research on anomaly detection, quality assessment, and time-series modeling in industrial tightening applications.
