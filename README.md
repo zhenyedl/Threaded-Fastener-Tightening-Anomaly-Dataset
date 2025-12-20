@@ -2,8 +2,10 @@
 
 ### English Introduction
 
-The dataset is released as part of the academic research conducted for the master’s thesis entitled: **Tightening Analysis System for Threaded Fasteners in Intelligent Manufacturing**
+The dataset is released as part of the academic research conducted for the master’s thesis entitled: **Tightening Analysis System for Threaded Fasteners in Intelligent Manufacturing**.
+
 This thesis was submitted to the **University of Chinese Academy of Sciences(UCAS)**.
+
 **Author:** YANG Zhenye  
 **Supervisor:** TIAN Yingjie  
 **Institution:** University of Chinese Academy of Sciences  
