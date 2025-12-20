@@ -1,6 +1,6 @@
 ## Introduction
 
-The dataset is released as part of the research work presented in the paper
+The dataset is released as part of the academic research conducted for the master’s thesis entitled:
 
 **Tightening Analysis System for Threaded Fasteners in Intelligent Manufacturing**
 
