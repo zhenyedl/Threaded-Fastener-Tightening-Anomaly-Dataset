@@ -42,7 +42,7 @@ Dataset **D6** corresponds to yield tightening. Therefore, part of the necking-r
 
 ### A4: Stick–Slip
 
-### A5: Abnoraml Prevailing Torque
+### A5: Abnormal Prevailing Torque
 - **Thread crossing / Jamming / Floating / Seizing**
 - **Stiffness variation / Gap closure**  
 
