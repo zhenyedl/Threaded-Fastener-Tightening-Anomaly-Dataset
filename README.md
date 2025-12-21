@@ -54,7 +54,7 @@ Dataset **D6** corresponds to yield tightening. Therefore, part of the necking-r
 ## Data Availability
 
 Raw data is available at:
-https://zenodo.org/record/xxxx
+[https://zenodo.org/record/xxxx]
 
 Due to GitHub size limits, raw data is not stored in this repository.
 
