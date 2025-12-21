@@ -33,21 +33,21 @@ Dataset **D6** corresponds to yield tightening. Therefore, part of the necking-r
 
 ---
 ### A1: Engagement or Slip-off
----
+
 ### A2: Yield or Crashing or Necking
----
+
 ### A3: Interfacial Instability
 - **Co-rotation**
 - **Thread stripping / Head rounding**  
----
+
 ### A4: Stick–Slip
----
+
 ### A5: Abnoraml Prevailing Torque
 - **Thread crossing / Jamming / Floating / Seizing**
 - **Stiffness variation / Gap closure**  
----
+
 ### A6: Re-tightening (Rehit)
----
+
 ### A7: Tool or Equipment Worn
 ---
 
