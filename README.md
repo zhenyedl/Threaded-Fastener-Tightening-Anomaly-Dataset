@@ -17,19 +17,21 @@ To ensure consistency in process conditions, each sub-dataset is collected from 
 
 This dataset is intended for research on anomaly detection, weakly supervised learning, and industrial time-series analysis, and can be used for both academic research and engineering-oriented method evaluation.
 
-| Dataset | Total | A1 | A2 | A3 | A4 | A5 | A6 | A7 | 
-|:-------:|------:|---:|---:|---:|---:|---:|---:|---:|
-| D0 | 22773 | 1 | / | 29 | / | 6 | 2 | / | 
-| D1 | 178 | 16 | / | 21 | / | / | / | / | 
-| D2 | 10000 | 11 | / | / | / | 13 | 7 | / | 
-| D3 | 4996 | / | 11 | 5 | 47 | 2 | 8 | / | 
-| D4 | 10000 | 15 | / | 39 | / | / | / | / | 
-| D5 | 51 | / | / | / | / | / | / | 1 | 
-| D6 | 4933 | / | 9 | / | / | / | / | / | 
-| D7 | 10000 | 11 | 3 | 17 | / | 13 | / | / | 
+| Dataset | Method | Total | A1 | A2 | A3 | A4 | A5 | A6 | A7 | 
+|:-------:|------:|------:|---:|---:|---:|---:|---:|---:|---:|
+| D0 | TA | 22773 | 1 | / | 29 | / | 6 | 2 | / | 
+| D1 | A | 178 | 16 | / | 21 | / | / | / | / | 
+| D2 | T | 10000 | 11 | / | / | / | 13 | 7 | / | 
+| D3 | T | 4996 | / | 11 | 5 | 47 | 2 | 8 | / | 
+| D4 | TA | 10000 | 15 | / | 39 | / | / | / | / | 
+| D5 | T | 51 | / | / | / | / | / | / | 1 | 
+| D6 | TA | 4933 | / | 9 | / | / | / | / | / | 
+| D7 | T | 10000 | 11 | 3 | 17 | / | 13 | / | / | 
+| D8 | T | 40000 | 23 | / | 50 | / | 42 | / | / | 
 
 **Note:**  
 Dataset **D6** corresponds to yield tightening. Therefore, part of the necking-related samples are labeled as **A2**.
+T: Torque only method; TA: Torque+Angle method; A: Angle only method, tighten to failure.
 
 ---
 ### A1: Engagement or Slip-off
