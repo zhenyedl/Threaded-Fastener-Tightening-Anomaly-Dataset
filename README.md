@@ -30,7 +30,7 @@ This dataset is intended for research on anomaly detection, weakly supervised le
 | D8 | T | 40000 | 23 | / | 50 | / | 42 | / | / | 
 
 **Note:**  
-Dataset **D6** corresponds to yield tightening. Therefore, part of the necking-related samples are labeled as **A2**.
+Dataset **D6** corresponds to yield tightening. Therefore, part of the necking-related samples are labeled as **A2**./n
 T: Torque only method; TA: Torque+Angle method; A: Angle only method, tighten to failure.
 
 ---
