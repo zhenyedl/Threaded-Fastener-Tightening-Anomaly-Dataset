@@ -7,6 +7,7 @@
 《面向智能制造的拧紧过程质量管理研究》
 
 **作者：** 杨振业（yang.zhenye@foxmail.com 或 zhen.ye.yang@atlascopco.com）
+
 **导师：** 田英杰
 
 **单位：** 中国科学院大学（UCAS）
