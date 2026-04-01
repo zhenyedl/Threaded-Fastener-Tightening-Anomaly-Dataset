@@ -6,7 +6,7 @@ The dataset is released as part of the academic research conducted for the maste
 
 **A Study on Tightening Process Quality Management for Intelligent Manufacturing**.
 
-**Author:** YANG Zhenye(yang.zhenye@foxmail.com or zhen.ye.yang@atlascopco.com)  
+**Author:** YANG Zhenye (yang.zhenye@foxmail.com or zhen.ye.yang@atlascopco.com)  
 **Supervisor:** TIAN Yingjie  
 **Institution:** University of Chinese Academy of Sciences(UCAS)  
 **Date:** June 2026
