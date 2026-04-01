@@ -51,9 +51,7 @@
 
 本数据集采用  
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** 许可协议。
-
 在遵守署名要求的前提下，你可以出于非商业目的使用、传播和改编本数据集。
-
 如需商业使用，请联系作者。
 
 
