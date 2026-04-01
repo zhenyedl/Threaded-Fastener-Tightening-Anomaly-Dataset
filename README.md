@@ -54,10 +54,11 @@ This dataset is intended for research on anomaly detection, weakly supervised le
 
 ## Data Availability
 
-Raw data is available at:
+Due to GitHub size limits, raw data is not stored in this repository, raw data is available at:
+
 [https://zenodo.org/records/18007039]
 
-Due to GitHub size limits, raw data is not stored in this repository.
+---
 
 ## License
 
