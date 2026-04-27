@@ -4,7 +4,7 @@
 
 The dataset is released as part of the academic research conducted for the master’s thesis entitled:
 
-**A Study on Tightening Process Quality Management for Intelligent Manufacturing**.
+**Design and Value Realization of a Digital Solution for Tightening Process Quality Management**.
 
 **Author:** YANG Zhenye (yang.zhenye@foxmail.com or zhen.ye.yang@atlascopco.com)  
 **Supervisor:** TIAN Yingjie  
