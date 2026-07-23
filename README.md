@@ -10,6 +10,7 @@ The dataset is released as part of the academic research conducted for the maste
 **Supervisor:** TIAN Yingjie  
 **Institution:** University of Chinese Academy of Sciences(UCAS)  
 **Date:** June 2026
+**DOI:** 10.27611/d.cnki.gzkyy.2026.000001
 
 This is a real-world industrial dataset designed for anomaly analysis in threaded fastener tightening processes. The dataset is constructed from actual tightening operation data collected at industrial production sites, where synchronized torque–angle time-series signals are recorded during each tightening process. It aims to support research on anomaly detection, quality assessment, and time-series modeling in industrial tightening applications.
 
